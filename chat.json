@@ -63,5 +63,15 @@
         "source": "smart_contract_assistant",
         "content": "Which component would you like to integrate with this smart contract: Footer, Header, or Hero?",
         "metadata": {}
+    },
+    {
+        "id": "2b58fa05-6496-419e-82db-e5fcf33467d2",
+        "timestamp": "2024-11-25T14:59:35.041517Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "footer?",
+        "metadata": {
+            "component_id": "Footer1732541891"
+        }
     }
 ]
