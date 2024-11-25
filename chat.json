@@ -47,5 +47,13 @@
         "source": "smart_contract_assistant",
         "content": "Could you please let me know which component you would like to integrate the smart contract with, and on which chain the smart contract resides?",
         "metadata": {}
+    },
+    {
+        "id": "2931e5ee-8231-4661-be90-d698b4b5c19c",
+        "timestamp": "2024-11-25T14:59:06.816836Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "in ethereum",
+        "metadata": {}
     }
 ]
